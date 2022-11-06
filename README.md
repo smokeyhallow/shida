@@ -8,8 +8,6 @@
  <img width="650px" src="https://tnfe.github.io/FFCreator/_media/logo/logo.png" />
 </p>
 
-《视搭》前端部分 fork 自[quark-h5](https://github.com/huangwei9527/quark-h5)项目开发，本项目未做太多扩展。quark-h5 是一个很棒的 h5 搭建开源工具，架构合理、代码比较清晰易读，感谢作者。
-
 **项目预览：**
 
 <p align="center">
@@ -20,7 +18,7 @@
 
 ## 工程目录
 
-```javascript
+``` javascript
 |-- client					--------前端项目界面代码
     |--common					--------前端界面对应静态资源
     |--components				--------组件

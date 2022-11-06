@@ -103,18 +103,18 @@ npm run dev-server
 ### 启动 mongodb
 
 - 安装 mongodb：[https://zhuanlan.zhihu.com/p/394960855](https://zhuanlan.zhihu.com/p/394960855)
-- 配置 mongodb：配置文件在`/server/config/index.css`
+- 配置 mongodb：配置文件在`/server/config/index.js`
 - 启动 mongodb：[https://www.cnblogs.com/zhm1985/p/13111448.html](https://www.cnblogs.com/zhm1985/p/13111448.html)
 
 ### 需要全局安装 pm2
 
-```
+``` sh
 npm install pm2 -g
 ```
 
 ### 启动命令
 
-```
+``` sh
 npm run publish && npm run start
 ```
 
